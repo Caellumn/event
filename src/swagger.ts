@@ -20,12 +20,7 @@ const options = {
             description: "production server",
           },
     ],
-    // servers: [
-    //   {
-    //     url: "http://localhost:3000/api/",
-    //     description: "Local server",
-    //   },
-    // ],
+
     components: {
       schemas: {
         Event: {
